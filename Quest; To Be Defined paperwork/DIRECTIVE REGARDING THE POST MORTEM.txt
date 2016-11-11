@@ -1,0 +1,3 @@
+After detailing the current state of the game, given the ideal components that I would mention in entirity, within the Micro-Game-Design-Document (MGDD),
+list the current features that I would like to resolve, then compose and execute, a plan of action for testing these appropirate resolutions, before conducting a
+post-mortem on whether the solution for each respective issue, achieved the desired results or not.
